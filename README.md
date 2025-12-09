@@ -21,7 +21,7 @@ This project implements a two-stage pipeline:
 ├── SceneTrialTrain/                 # Training data directory
 └── runs/ 
 ```
-##Features
+## Features
 
 Text Detection: Fast and accurate text region detection using YOLO11
 Text Recognition: Character-level recognition using CRNN with CTC loss
